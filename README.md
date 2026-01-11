@@ -2,7 +2,7 @@
 
 ### 🌟 Fullstack Developer | .NET (C#) | Node.js | React
 
-I'm a passionate fullstack developer based in Porto Alegre 🇧🇷, always seeking new challenges and growth opportunities in software development. I enjoy building scalable, user-centric applications with clean and maintainable code. :contentReference[oaicite:1]{index=1}
+I'm a passionate fullstack developer based in Porto Alegre 🇧🇷, always seeking new challenges and growth opportunities in software development. I enjoy building scalable, user-centric applications with clean and maintainable code.
 
 ---
 
