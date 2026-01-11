@@ -38,10 +38,4 @@ I'm a passionate fullstack developer based in Porto Alegre 🇧🇷, always seek
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
 
 
-## 📈 GitHub Stats
-
-![Renata’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 Thanks for stopping by! 🚀
