@@ -28,7 +28,7 @@ I'm a passionate fullstack developer based in Porto Alegre 🇧🇷, always seek
 - 🌱 Currently improving architecture skills and building SaaS applications  
 - 💼 Experienced working with C#, Node.js & React  
 - 📚 Constantly learning and exploring new technologies  
-- 💬 I also study Japanese and enjoy stacked challenges 💪 :contentReference[oaicite:2]{index=2}
+- 💬 I also study Japanese and enjoy stacked challenges 💪
 
 ---
 
